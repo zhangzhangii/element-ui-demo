@@ -12,9 +12,9 @@
       </template>
     </Table>
    <!-- 自定义的 -->
-    <Input :v-model="eee" placeholder="请问你要输入的问题"></Input>
+    <Input :v-model="eee"    placeholder="请问你要输入的问题"></Input>
     <el-button size="mini" type="danger" @click="handleDelete()">删除</el-button>
-
+    <h4>{{name}} </h4>
   </div>
 </template>
 <script>
