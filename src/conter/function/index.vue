@@ -1,7 +1,7 @@
 <template>
  <div>
   <div>  <el-tag>标签一</el-tag>
-    <el-tag type="success">标签二</el-tag></div>
+    <el-tag type="success">标签二</el-tag></div>  
 
  </div>
 </template>
